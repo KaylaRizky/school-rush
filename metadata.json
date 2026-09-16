@@ -1,0 +1,6 @@
+{
+  "name": "School Rush",
+  "description": "Game endless runner bertema siswa berangkat ke sekolah, kumpulkan buku dan hindari rintangan untuk mencapai target skor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
